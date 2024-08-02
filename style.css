@@ -179,4 +179,37 @@ nav ul li a:hover {
    padding: 0px 20px;
   }
 
+ .CopyR{
+    text-align: center;
+    padding: 50px 50px;
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: #000000;
+    border-radius: 10px;
+    border-width: 10px;
+    
+
+ }
+
+ .Poems{
+    padding: 100px;
+    text-align: left;
+    float: left;
+    border: #000000;
+    border-radius: 30px;
+    border-style: solid;
+    
+ }
+
+ .BODY1{
+    background-color:antiquewhite
+ }
+
+ .SPAN1{
+    margin: 0;
+    padding: 0;
+    z-index: 1000;
  
+   
+    justify-content: space-between;
+ }
